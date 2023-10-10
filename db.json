@@ -8,7 +8,33 @@
       "mc": "Eren Yeager",
       "rating": 9.6,
       "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-      "poster": "https://rukminim1.flixcart.com/image/850/1000/kzegk280/poster/0/j/p/medium-shingeki-no-kyojin-attack-on-titan-anime-poster-exclusive-original-imagbf7p5gzqq8an.jpeg?q=90"
+      "poster": "https://rukminim1.flixcart.com/image/850/1000/kzegk280/poster/0/j/p/medium-shingeki-no-kyojin-attack-on-titan-anime-poster-exclusive-original-imagbf7p5gzqq8an.jpeg?q=90",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Levi Ackerman T shirt",
+          "product_description": "Cotton T shirt with Levi Ackerman print",
+          "price": 19.99,
+          "image": "https://m.media-amazon.com/images/I/61dE3b9mvLL._SL1500_.jpg"
+        },
+        {
+          "id": 2,
+          "product_type": "Toys",
+          "product_name": "Levi Action Figure",
+          "product_description": "Levi Ackerman Miniature action figure",
+          "price": 9.99,
+          "image": "https://media.entertainmentearth.com/assets/images/f3047aefdb984cffb7821c525335ffe4xl.jpg"
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Eren Action Figure",
+          "product_description": "Eren Yeager miniature action figure",
+          "price": 9.99,
+          "image": "https://media.entertainmentearth.com/assets/images/f3047aefdb984cffb7821c525335ffe4xl.jpg"
+        }
+      ]
     },
     {
       "id": "2",
@@ -120,42 +146,9 @@
       "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
       "poster": "https://cdn.europosters.eu/image/1300/posters/fullmetal-alchemist-key-art-i160464.jpg"
     }
-  
-  ]
-  ,
-  "merchandise": [
-    {
-      "id": 1,
-      "anime_id": 1,
-      "product_type": "Clothing",
-      "product_name": "Levi Ackerman T shirt",
-      "product_description": "Cotton T shirt with Levi ACkerman print",
-      "price": 19.99,
-      "image": "https://m.media-amazon.com/images/I/61dE3b9mvLL._SL1500_.jpg"
-    },
-    {
-      "id": 2,
-      "anime_id": 1,
-      "product_type": "Toys",
-      "product_name": "Levi Action Figure",
-      "product_description": "Levi ACkerman Miniature action figure",
-      "price": 9.99,
-      "image": "https://media.entertainmentearth.com/assets/images/f3047aefdb984cffb7821c525335ffe4xl.jpg"
-    },
-    {
-      "id": 3,
-      "anime_id": 1,
-      "product_type": "Toys",
-      "product_name": "Eren Action Figure",
-      "product_description": "Eren Yeager miniature action figure",
-      "price": 9.99,
-      "image": "https://media.entertainmentearth.com/assets/images/f3047aefdb984cffb7821c525335ffe4xl.jpg"
-    }
 
   ]
 }
 
- 
- 
- 
+
  
