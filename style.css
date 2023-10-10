@@ -1,0 +1,63 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 5% 5% 5%;
+  background-color:#10101a;
+  border-radius: 10px;
+}
+
+nav a {
+padding: 10px;
+color: antiquewhite;
+
+}
+
+.links{
+  margin-right: 10%;
+}
+
+#logo{
+  border-radius: 5px;
+}
+#submit{
+  background-color: gray;
+  border-radius: 5px;
+  color: white;
+  
+}
+#submit:hover{
+ transform: scale(1,1.2);
+ background-color: rgb(23, 229, 23);
+}
+
+#username {
+  font-size:17px ;
+}
+
+#mainDisplay{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  overflow-y: scroll;
+  height: 100vh;
+}
+#mainDisplay img{
+ width: 170px;
+ margin: 1%;
+}
